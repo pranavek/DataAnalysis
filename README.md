@@ -19,7 +19,7 @@ conda create -n name_project anaconda
 
 activate name_project
 
-###Adding and removing create default packages -
+###Adding and removing default packages -
 
 conda config --add create_default_packages ipython
 
